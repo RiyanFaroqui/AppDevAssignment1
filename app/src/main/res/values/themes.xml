@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Assignment1" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorSecondary">@color/colorSecondary</item>
+    </style>
+    <style name="MyElevatedButton" parent="Widget.Material3.Button.ElevatedButton">
+        <item name="android:backgroundTint">@color/colorSecondary</item>
+        <item name="cornerRadius">12dp</item>
+        <item name="elevation">6dp</item>
+    </style>
+
+    <style name="Theme.Assignment1" parent="Base.Theme.Assignment1" />
+</resources>

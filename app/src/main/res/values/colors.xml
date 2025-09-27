@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#D5BDAF</color>        <!-- warm medium tone -->
+    <color name="colorOnPrimary">#1C1B1F</color>      <!-- dark text for contrast -->
+
+    <color name="colorSecondary">#E3D5CA</color>      <!-- lighter beige -->
+    <color name="colorOnSecondary">#1C1B1F</color>    <!-- dark text -->
+
+    <color name="colorSurface">#EDEDE9</color>        <!-- soft neutral background -->
+    <color name="colorOnSurface">#1C1B1F</color>      <!-- readable dark text -->
+
+    <color name="colorBackground">#F5EBE0</color>     <!-- main background -->
+    <color name="colorOnBackground">#1C1B1F</color>   <!-- readable dark text -->
+
+    <color name="colorTertiary">#D6CCC2</color>
+    <color name="colorOnTertiary">#1C1B1F</color>
+
+
+
+</resources>
