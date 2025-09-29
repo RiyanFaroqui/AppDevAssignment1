@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Assignment1</string>
+    <string name="appTitle1">Equated Monthly Installment (EMI) Calculator</string>
+    <string name="subtitle1">Insert your loan amount, interest rate, and loan term in years to get your monthly EMI.</string>
+    <string name="principalHint">Loan Amount</string>
+    <string name="termHint">Loan Term in Years</string>
+    <string name="rateHint">Interest Rate</string>
+    <string name="nextStep">Next Step</string>
+    <string name="appTitle2">Income and Expense Calculator</string>
+    <string name="subtitle2">Insert your monthly income and expenses.</string>
+    <string name="incomeHint">Monthly Income</string>
+    <string name="expensesHint">Monthly Expenses</string>
+    <string name="final_step">Final Step</string>
+    <string name="appTitle3">Final Results</string>
+    <string name="subtitle3">View your final results.</string>
 </resources>
